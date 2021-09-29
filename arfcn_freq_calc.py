@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#author hossainel <tfaxmail@gmail.com>
+#author hossainel 
 
 from math import floor, ceil
 
