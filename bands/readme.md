@@ -5,3 +5,4 @@
 - CDMA
 - UMTS
 - LTE
+- NR
